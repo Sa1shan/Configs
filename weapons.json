@@ -1,0 +1,6 @@
+{
+  "weapons": [
+    { "id": "pistol", "damage": 15, "cooldown": 0.5 },
+    { "id": "rifle", "damage": 40, "cooldown": 0.2 }
+  ]
+}
